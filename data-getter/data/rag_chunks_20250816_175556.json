@@ -1,0 +1,262 @@
+[
+  {
+    "id": "DCD771C2_main",
+    "type": "product_overview",
+    "content": "Product: DEWALT 20V MAX Cordless Drill by DEWALT (Model: DCD771C2). Compact and lightweight drill with high performance motor delivering 300 unit watts out for a wide range of drilling and fastening applications. Features 1/2-inch single sleeve ratcheting chuck for tight bit gripping strength.",
+    "metadata": {
+      "product_id": "DCD771C2",
+      "brand": "DEWALT",
+      "category": "Power Tools",
+      "subcategory": "Drills",
+      "price": 149.99
+    }
+  },
+  {
+    "id": "DCD771C2_specs",
+    "type": "specifications",
+    "content": "Specifications: Chuck Size: 1/2 inch; Battery: 20V MAX Li-Ion; Motor: High performance motor - 300 UWO; Speed: 2-speed transmission (0-450/0-1,500 RPM); Torque: 15 position clutch; Weight: 3.6 lbs; Length: 7.5 inches",
+    "metadata": {
+      "product_id": "DCD771C2",
+      "brand": "DEWALT",
+      "model": "DCD771C2"
+    }
+  },
+  {
+    "id": "DCD771C2_features",
+    "type": "features",
+    "content": "Key Features: High performance motor delivers 300 unit watts out; Compact design fits into tight areas; LED light with 20-second delay; Single sleeve ratcheting chuck provides tight bit gripping strength; 2-speed transmission (0-450/0-1,500 RPM); 15-position clutch provides precise control",
+    "metadata": {
+      "product_id": "DCD771C2",
+      "brand": "DEWALT",
+      "model": "DCD771C2"
+    }
+  },
+  {
+    "id": "DCD771C2_applications",
+    "type": "applications",
+    "content": "Applications: Wood drilling up to 1-1/2 inches; Metal drilling up to 1/2 inch; Fastening screws; Light to medium duty applications",
+    "metadata": {
+      "product_id": "DCD771C2",
+      "brand": "DEWALT",
+      "model": "DCD771C2"
+    }
+  },
+  {
+    "id": "DCD771C2_safety",
+    "type": "safety",
+    "content": "Safety Information: Always wear safety glasses when operating; Ensure chuck is securely tightened before use; Remove battery when changing bits; Store in dry location",
+    "metadata": {
+      "product_id": "DCD771C2",
+      "brand": "DEWALT",
+      "model": "DCD771C2"
+    }
+  },
+  {
+    "id": "2853-20_main",
+    "type": "product_overview",
+    "content": "Product: Milwaukee M18 FUEL 1/4 Hex Impact Driver by Milwaukee (Model: 2853-20). The M18 FUEL 1/4 Hex Impact Driver is the Most Compact Impact Driver in its class, generating 1,800 in-lbs of fastening torque. The POWERSTATE Brushless Motor delivers 0-3,200 RPM resulting in increased productivity.",
+    "metadata": {
+      "product_id": "2853-20",
+      "brand": "Milwaukee",
+      "category": "Power Tools",
+      "subcategory": "Impact Drivers",
+      "price": 199.0
+    }
+  },
+  {
+    "id": "2853-20_specs",
+    "type": "specifications",
+    "content": "Specifications: Chuck Type: 1/4 inch Hex; Battery: M18 REDLITHIUM (sold separately); Motor: POWERSTATE Brushless; Speed: 0-3,200 RPM; Impacts: 0-3,600 IPM; Torque: 1,800 in-lbs fastening / 1,200 in-lbs breakaway; Weight: 2.8 lbs (with battery); Length: 5.1 inches",
+    "metadata": {
+      "product_id": "2853-20",
+      "brand": "Milwaukee",
+      "model": "2853-20"
+    }
+  },
+  {
+    "id": "2853-20_features",
+    "type": "features",
+    "content": "Key Features: POWERSTATE Brushless Motor provides more power, longer runtime; REDLINK PLUS Intelligence prevents damage from overloading; 4-Mode Drive Control provides greater control over output speed and power; Tri-LEDs surround the anvil providing brighter light; Most compact in class at only 5.1 inches long; Belt clip for easy storage and transport",
+    "metadata": {
+      "product_id": "2853-20",
+      "brand": "Milwaukee",
+      "model": "2853-20"
+    }
+  },
+  {
+    "id": "2853-20_applications",
+    "type": "applications",
+    "content": "Applications: Fastening lag bolts; Driving long screws; Drilling holes with hex shank bits; Heavy duty fastening applications",
+    "metadata": {
+      "product_id": "2853-20",
+      "brand": "Milwaukee",
+      "model": "2853-20"
+    }
+  },
+  {
+    "id": "2853-20_safety",
+    "type": "safety",
+    "content": "Safety Information: Always use proper eye and hearing protection; Maintain firm grip on tool during operation; Remove battery before changing bits; Inspect tool before each use",
+    "metadata": {
+      "product_id": "2853-20",
+      "brand": "Milwaukee",
+      "model": "2853-20"
+    }
+  },
+  {
+    "id": "XFD131_main",
+    "type": "product_overview",
+    "content": "Product: Makita 18V LXT Lithium-Ion Brushless Cordless Driver-Drill by Makita (Model: XFD131). The 18V LXT Lithium-Ion Brushless Cordless 1/2 Driver-Drill delivers power and runtime for the most demanding applications. The BL Brushless Motor eliminates carbon brushes, enabling the motor to run cooler and more efficiently.",
+    "metadata": {
+      "product_id": "XFD131",
+      "brand": "Makita",
+      "category": "Power Tools",
+      "subcategory": "Driver-Drills",
+      "price": 229.0
+    }
+  },
+  {
+    "id": "XFD131_specs",
+    "type": "specifications",
+    "content": "Specifications: Chuck Size: 1/2 inch keyless; Battery: 18V LXT Lithium-Ion; Motor: BL Brushless Motor; Speed: 2-speed (0-500 & 0-1,900 RPM); Torque: 21 settings plus drill mode; Max Torque: 440 in-lbs; Weight: 3.3 lbs (with battery); Length: 7-7/8 inches",
+    "metadata": {
+      "product_id": "XFD131",
+      "brand": "Makita",
+      "model": "XFD131"
+    }
+  },
+  {
+    "id": "XFD131_features",
+    "type": "features",
+    "content": "Key Features: BL Brushless Motor delivers 440 in.lbs. of Max Torque; BL Brushless Motor eliminates carbon brushes for longer run time; Variable 2-speed design (0-500 & 0-1,900 RPM); 21+1 torque settings for precise fastening control; Compact design at only 7-7/8 inches long; Built-in L.E.D. light illuminates the work area; Ergonomic soft grip handle provides increased comfort",
+    "metadata": {
+      "product_id": "XFD131",
+      "brand": "Makita",
+      "model": "XFD131"
+    }
+  },
+  {
+    "id": "XFD131_applications",
+    "type": "applications",
+    "content": "Applications: Wood drilling up to 2-1/8 inches; Steel drilling up to 1/2 inch; Masonry drilling up to 1/2 inch; Fastening wood screws up to 4-1/2 inches",
+    "metadata": {
+      "product_id": "XFD131",
+      "brand": "Makita",
+      "model": "XFD131"
+    }
+  },
+  {
+    "id": "XFD131_safety",
+    "type": "safety",
+    "content": "Safety Information: Read all instructions before operating tool; Always wear approved safety glasses; Secure work piece with clamps or vise; Disconnect battery before making adjustments",
+    "metadata": {
+      "product_id": "XFD131",
+      "brand": "Makita",
+      "model": "XFD131"
+    }
+  },
+  {
+    "id": "RYB01011G_main",
+    "type": "product_overview",
+    "content": "Product: RYOBI 18V ONE+ Cordless Compact Drill/Driver by RYOBI (Model: P208). The RYOBI 18V ONE+ Cordless Compact Drill/Driver features a 24-position clutch for driving in/removing screws without damaging material and a 2-speed gearbox for drilling and driving versatility.",
+    "metadata": {
+      "product_id": "RYB01011G",
+      "brand": "RYOBI",
+      "category": "Power Tools",
+      "subcategory": "Drill/Drivers",
+      "price": 89.0
+    }
+  },
+  {
+    "id": "RYB01011G_specs",
+    "type": "specifications",
+    "content": "Specifications: Chuck Size: 1/2 inch single sleeve; Battery: 18V ONE+ Lithium-Ion; Speed: 2-speed gearbox (0-400/0-1,650 RPM); Torque: 24-position clutch; Weight: 2.7 lbs; Length: 7.5 inches",
+    "metadata": {
+      "product_id": "RYB01011G",
+      "brand": "RYOBI",
+      "model": "P208"
+    }
+  },
+  {
+    "id": "RYB01011G_features",
+    "type": "features",
+    "content": "Key Features: 24-position clutch prevents overdriving screws; 2-speed gearbox for drilling and driving versatility; 1/2 inch single sleeve chuck for easy bit changes; LED light illuminates work surface; Compact design for tight spaces; Belt clip included for convenient storage",
+    "metadata": {
+      "product_id": "RYB01011G",
+      "brand": "RYOBI",
+      "model": "P208"
+    }
+  },
+  {
+    "id": "RYB01011G_applications",
+    "type": "applications",
+    "content": "Applications: Drilling holes in wood and metal; Driving and removing screws; Light to medium duty applications; Home improvement projects",
+    "metadata": {
+      "product_id": "RYB01011G",
+      "brand": "RYOBI",
+      "model": "P208"
+    }
+  },
+  {
+    "id": "RYB01011G_safety",
+    "type": "safety",
+    "content": "Safety Information: Always wear safety glasses; Keep hands away from chuck during operation; Remove battery when changing bits; Store in clean, dry area",
+    "metadata": {
+      "product_id": "RYB01011G",
+      "brand": "RYOBI",
+      "model": "P208"
+    }
+  },
+  {
+    "id": "BDCDD12C_main",
+    "type": "product_overview",
+    "content": "Product: BLACK+DECKER 12V MAX Cordless Drill by BLACK+DECKER (Model: BDCDD12C). The BLACK+DECKER 12V MAX Cordless Drill features an 11-position clutch to prevent overdriving screws and stripping. The lithium ion battery holds a charge for up to 18 months.",
+    "metadata": {
+      "product_id": "BDCDD12C",
+      "brand": "BLACK+DECKER",
+      "category": "Power Tools",
+      "subcategory": "Cordless Drills",
+      "price": 49.99
+    }
+  },
+  {
+    "id": "BDCDD12C_specs",
+    "type": "specifications",
+    "content": "Specifications: Chuck Size: 3/8 inch single sleeve; Battery: 12V MAX Lithium-Ion; Speed: Single speed (0-650 RPM); Torque: 11-position clutch plus drill mode; Weight: 2.3 lbs; Length: 9.4 inches",
+    "metadata": {
+      "product_id": "BDCDD12C",
+      "brand": "BLACK+DECKER",
+      "model": "BDCDD12C"
+    }
+  },
+  {
+    "id": "BDCDD12C_features",
+    "type": "features",
+    "content": "Key Features: 11-position clutch prevents overdriving and stripping; Lithium ion battery holds charge for up to 18 months; 3/8 inch single sleeve chuck for easy bit changes; Compact and lightweight design; LED light provides visibility in dark spaces; Soft grip handle for comfort and control",
+    "metadata": {
+      "product_id": "BDCDD12C",
+      "brand": "BLACK+DECKER",
+      "model": "BDCDD12C"
+    }
+  },
+  {
+    "id": "BDCDD12C_applications",
+    "type": "applications",
+    "content": "Applications: Assembling furniture; Hanging pictures and mirrors; Light drilling and driving tasks; Home and craft projects",
+    "metadata": {
+      "product_id": "BDCDD12C",
+      "brand": "BLACK+DECKER",
+      "model": "BDCDD12C"
+    }
+  },
+  {
+    "id": "BDCDD12C_safety",
+    "type": "safety",
+    "content": "Safety Information: Read instruction manual before use; Always wear eye protection; Keep work area clean and well lit; Store indoors in dry location",
+    "metadata": {
+      "product_id": "BDCDD12C",
+      "brand": "BLACK+DECKER",
+      "model": "BDCDD12C"
+    }
+  }
+]

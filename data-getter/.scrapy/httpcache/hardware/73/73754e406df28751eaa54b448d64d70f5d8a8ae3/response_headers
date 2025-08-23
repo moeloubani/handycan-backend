@@ -1,0 +1,15 @@
+Content-Length: 314
+Date: Sat, 16 Aug 2025 21:47:53 GMT
+Content-Type: application/xml
+Cf-Ray: 970421f8eb3faae2-YYZ
+Last-Modified: Sat, 16 Aug 2025 10:25:18 GMT
+Etag: "b9b-63c78ec481b03"
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Cache-Control: max-age=3600
+Expires: Sat, 16 Aug 2025 22:47:53 GMT
+Strict-Transport-Security: max-age=15724800; includeSubDomains
+Cf-Cache-Status: DYNAMIC
+X-Content-Type-Options: nosniff
+Server: cloudflare

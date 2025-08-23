@@ -1,0 +1,734 @@
+{
+  "metadata": {
+    "created_at": "2025-08-16T18:11:54.964699",
+    "dataset_name": "Comprehensive Drilling Equipment Database",
+    "version": "2.0",
+    "total_drills": 8,
+    "total_drill_bits": 12,
+    "total_products": 20,
+    "drill_types": [
+      "band_saw_drill",
+      "heavy_duty_drill",
+      "corded_hammer_drill",
+      "hammer_drill",
+      "cordless_drill_driver",
+      "impact_driver",
+      "corded_drill",
+      "right_angle_drill"
+    ],
+    "bit_types": [
+      "glass_tile_bits",
+      "masonry_drill_bits",
+      "titanium_drill_bits",
+      "hole_saws",
+      "twist_drill_bits",
+      "cobalt_drill_bits",
+      "percussion_masonry_bits",
+      "speed_bore_bits",
+      "forstner_bits",
+      "countersink_bits",
+      "spade_bits",
+      "step_drill_bits"
+    ],
+    "brands": [
+      "Bosch",
+      "Makita",
+      "Milwaukee",
+      "Freud",
+      "Irwin",
+      "DEWALT"
+    ]
+  },
+  "drills": [
+    {
+      "id": "DCD771C2",
+      "name": "DEWALT 20V MAX Cordless Drill/Driver Kit",
+      "brand": "DEWALT",
+      "model": "DCD771C2",
+      "category": "Power Tools",
+      "subcategory": "Cordless Drills",
+      "drill_type": "cordless_drill_driver",
+      "price": 149.99,
+      "description": "Compact and lightweight cordless drill with high performance motor delivering 300 unit watts out. Features 1/2-inch single sleeve ratcheting chuck for versatile drilling and fastening applications.",
+      "specifications": {
+        "Chuck Size": "1/2 inch keyless",
+        "Battery": "20V MAX Li-Ion",
+        "Motor": "High performance - 300 UWO",
+        "Speed": "2-speed (0-450/0-1,500 RPM)",
+        "Torque Settings": "15 position clutch",
+        "Max Torque": "300 in-lbs",
+        "Weight": "3.6 lbs",
+        "Length": "7.5 inches"
+      },
+      "drilling_capacity": {
+        "Wood": "1-1/2 inches",
+        "Steel": "1/2 inch",
+        "Masonry": "Not recommended"
+      },
+      "applications": [
+        "General drilling",
+        "Screw driving",
+        "Light fastening",
+        "Home projects"
+      ]
+    },
+    {
+      "id": "2853-22CT",
+      "name": "Milwaukee M18 FUEL Impact Driver Kit",
+      "brand": "Milwaukee",
+      "model": "2853-22CT",
+      "category": "Power Tools",
+      "subcategory": "Impact Drivers",
+      "drill_type": "impact_driver",
+      "price": 299.0,
+      "description": "Most compact impact driver generating 1,800 in-lbs of fastening torque. POWERSTATE Brushless Motor delivers superior power and runtime.",
+      "specifications": {
+        "Chuck Type": "1/4 inch hex",
+        "Battery": "M18 REDLITHIUM",
+        "Motor": "POWERSTATE Brushless",
+        "Speed": "0-3,200 RPM",
+        "Impacts": "0-3,600 IPM",
+        "Max Torque": "1,800 in-lbs",
+        "Weight": "2.8 lbs",
+        "Length": "5.1 inches"
+      },
+      "drilling_capacity": {
+        "Wood": "Use with hex shank bits",
+        "Steel": "Use with hex shank bits",
+        "Masonry": "Not recommended"
+      },
+      "applications": [
+        "Heavy duty fastening",
+        "Lag bolts",
+        "Long screws",
+        "Deck building"
+      ]
+    },
+    {
+      "id": "XPH12Z",
+      "name": "Makita 18V LXT Brushless Hammer Driver-Drill",
+      "brand": "Makita",
+      "model": "XPH12Z",
+      "category": "Power Tools",
+      "subcategory": "Hammer Drills",
+      "drill_type": "hammer_drill",
+      "price": 179.0,
+      "description": "Brushless hammer drill with BL motor for extended runtime. Features hammer mode for masonry drilling and drill mode for wood/metal.",
+      "specifications": {
+        "Chuck Size": "1/2 inch keyless",
+        "Battery": "18V LXT Li-Ion",
+        "Motor": "BL Brushless",
+        "Speed": "2-speed (0-500/0-1,900 RPM)",
+        "Impacts": "0-7,500/0-28,500 BPM",
+        "Max Torque": "530 in-lbs",
+        "Weight": "4.2 lbs",
+        "Length": "8-1/8 inches"
+      },
+      "drilling_capacity": {
+        "Wood": "2-1/8 inches",
+        "Steel": "1/2 inch",
+        "Masonry": "5/8 inch"
+      },
+      "applications": [
+        "Masonry drilling",
+        "Concrete anchors",
+        "Tile drilling",
+        "Heavy duty applications"
+      ]
+    },
+    {
+      "id": "DWD112",
+      "name": "DEWALT 8 Amp 3/8-inch VSR Pistol Grip Corded Drill",
+      "brand": "DEWALT",
+      "model": "DWD112",
+      "category": "Power Tools",
+      "subcategory": "Corded Drills",
+      "drill_type": "corded_drill",
+      "price": 89.0,
+      "description": "Variable speed reversible corded drill with 8.0 Amp motor. Features keyless chuck and ergonomic design for extended use.",
+      "specifications": {
+        "Chuck Size": "3/8 inch keyless",
+        "Motor": "8.0 Amp",
+        "Speed": "0-2,500 RPM",
+        "Power": "Corded electric",
+        "Weight": "4.1 lbs",
+        "Length": "10.9 inches",
+        "Cord Length": "8 feet"
+      },
+      "drilling_capacity": {
+        "Wood": "1-1/4 inches",
+        "Steel": "3/8 inch",
+        "Masonry": "Not recommended"
+      },
+      "applications": [
+        "Continuous drilling",
+        "Production work",
+        "Mixing",
+        "Heavy duty drilling"
+      ]
+    },
+    {
+      "id": "HD18-2",
+      "name": "Bosch 1/2-inch 2-Speed Hammer Drill",
+      "brand": "Bosch",
+      "model": "HD18-2",
+      "category": "Power Tools",
+      "subcategory": "Corded Hammer Drills",
+      "drill_type": "corded_hammer_drill",
+      "price": 159.0,
+      "description": "Powerful 7.0 Amp hammer drill with 2-speed gearbox. Features Vario-Lock positioning for optimal drilling angle.",
+      "specifications": {
+        "Chuck Size": "1/2 inch keyed",
+        "Motor": "7.0 Amp",
+        "Speed": "2-speed (0-900/0-2,800 RPM)",
+        "Impacts": "0-14,400/0-44,800 BPM",
+        "Weight": "4.6 lbs",
+        "Length": "12.2 inches"
+      },
+      "drilling_capacity": {
+        "Wood": "1-1/2 inches",
+        "Steel": "1/2 inch",
+        "Masonry": "5/8 inch"
+      },
+      "applications": [
+        "Masonry work",
+        "Concrete drilling",
+        "Anchor installation",
+        "Construction"
+      ]
+    },
+    {
+      "id": "1680-21",
+      "name": "Milwaukee Right Angle Drill Kit",
+      "brand": "Milwaukee",
+      "model": "1680-21",
+      "category": "Power Tools",
+      "subcategory": "Right Angle Drills",
+      "drill_type": "right_angle_drill",
+      "price": 189.0,
+      "description": "Compact right angle drill for tight spaces. Features 7.0 Amp motor and QUIK-LOK cord for easy replacement.",
+      "specifications": {
+        "Chuck Size": "1/2 inch keyed",
+        "Motor": "7.0 Amp",
+        "Speed": "0-1,200 RPM",
+        "Head Width": "2-3/4 inches",
+        "Weight": "5.5 lbs",
+        "Length": "11.5 inches"
+      },
+      "drilling_capacity": {
+        "Wood": "2 inches",
+        "Steel": "1/2 inch",
+        "Masonry": "Not recommended"
+      },
+      "applications": [
+        "Tight spaces",
+        "Between studs",
+        "Plumbing",
+        "Electrical work"
+      ]
+    },
+    {
+      "id": "DCD460T1",
+      "name": "DEWALT FLEXVOLT 60V MAX Stud and Joist Drill",
+      "brand": "DEWALT",
+      "model": "DCD460T1",
+      "category": "Power Tools",
+      "subcategory": "Heavy Duty Drills",
+      "drill_type": "heavy_duty_drill",
+      "price": 459.0,
+      "description": "Professional grade drill for drilling through studs and joists. E-Clutch System provides user control and extends gear life.",
+      "specifications": {
+        "Chuck Size": "1/2 inch keyed",
+        "Battery": "60V MAX FLEXVOLT",
+        "Motor": "Brushless",
+        "Speed": "0-300/0-1,250 RPM",
+        "Max Torque": "1,330 in-lbs",
+        "Weight": "8.8 lbs",
+        "Length": "14.4 inches"
+      },
+      "drilling_capacity": {
+        "Wood": "6 inches",
+        "Steel": "1-1/4 inches",
+        "Masonry": "1 inch"
+      },
+      "applications": [
+        "Stud drilling",
+        "Joist drilling",
+        "Plumbing",
+        "HVAC installation"
+      ]
+    },
+    {
+      "id": "M12-BD",
+      "name": "Milwaukee M12 Cordless Band Saw",
+      "brand": "Milwaukee",
+      "model": "2429-21XC",
+      "category": "Power Tools",
+      "subcategory": "Portable Band Saws",
+      "drill_type": "band_saw_drill",
+      "price": 329.0,
+      "description": "Compact cordless band saw for cutting metal, PVC, and conduit. Features tool-free blade changes and LED light.",
+      "specifications": {
+        "Cutting Capacity": "1-5/8 inches round",
+        "Battery": "M12 REDLITHIUM",
+        "Motor": "High performance",
+        "Blade Length": "27 inches",
+        "Weight": "6.75 lbs",
+        "Cuts per Charge": "150+ in 3/4 inch EMT"
+      },
+      "drilling_capacity": {
+        "Metal Pipe": "1-5/8 inches",
+        "EMT Conduit": "1-1/4 inches",
+        "PVC": "2 inches"
+      },
+      "applications": [
+        "Pipe cutting",
+        "Conduit cutting",
+        "Metal fabrication",
+        "Plumbing"
+      ]
+    }
+  ],
+  "drill_bits": [
+    {
+      "id": "DW1177",
+      "name": "DEWALT Black Oxide Drill Bit Set",
+      "brand": "DEWALT",
+      "model": "DW1177",
+      "category": "Drill Bits",
+      "subcategory": "Twist Drill Bits",
+      "bit_type": "twist_drill_bits",
+      "price": 24.99,
+      "description": "20-piece black oxide drill bit set for drilling metal, wood, and plastic. 135-degree split point tip prevents walking.",
+      "specifications": {
+        "Material": "High Speed Steel (HSS)",
+        "Coating": "Black Oxide",
+        "Point Angle": "135 degrees",
+        "Shank Type": "Round",
+        "Sizes": "1/16 to 1/2 inch by 64ths",
+        "Total Pieces": "20"
+      },
+      "size_range": {
+        "Smallest": "1/16 inch",
+        "Largest": "1/2 inch",
+        "Increments": "64ths"
+      },
+      "materials_drilled": [
+        "Steel",
+        "Wood",
+        "Plastic",
+        "Aluminum"
+      ],
+      "applications": [
+        "General purpose drilling",
+        "Metal fabrication",
+        "Woodworking",
+        "Maintenance"
+      ]
+    },
+    {
+      "id": "CO-29",
+      "name": "Irwin Cobalt M-42 Drill Bit Set",
+      "brand": "Irwin",
+      "model": "CO-29",
+      "category": "Drill Bits",
+      "subcategory": "Cobalt Drill Bits",
+      "bit_type": "cobalt_drill_bits",
+      "price": 89.99,
+      "description": "29-piece cobalt drill bit set for drilling hardened steel and stainless steel. M-42 cobalt steel construction.",
+      "specifications": {
+        "Material": "M-42 Cobalt Steel",
+        "Coating": "None (natural cobalt)",
+        "Point Angle": "135 degrees",
+        "Shank Type": "Round",
+        "Sizes": "1/16 to 1/2 inch",
+        "Total Pieces": "29"
+      },
+      "size_range": {
+        "Smallest": "1/16 inch",
+        "Largest": "1/2 inch",
+        "Increments": "64ths"
+      },
+      "materials_drilled": [
+        "Hardened Steel",
+        "Stainless Steel",
+        "Cast Iron",
+        "High Temperature Alloys"
+      ],
+      "applications": [
+        "Heavy duty drilling",
+        "Industrial applications",
+        "Stainless steel work",
+        "Tool making"
+      ]
+    },
+    {
+      "id": "DW1361",
+      "name": "DEWALT Titanium Pilot Point Drill Bit Set",
+      "brand": "DEWALT",
+      "model": "DW1361",
+      "category": "Drill Bits",
+      "subcategory": "Titanium Drill Bits",
+      "bit_type": "titanium_drill_bits",
+      "price": 19.99,
+      "description": "21-piece titanium pilot point drill bit set. Titanium coating reduces heat buildup and extends bit life.",
+      "specifications": {
+        "Material": "High Speed Steel",
+        "Coating": "Titanium Nitride (TiN)",
+        "Point Type": "Pilot Point",
+        "Shank Type": "Round",
+        "Sizes": "1/16 to 3/8 inch",
+        "Total Pieces": "21"
+      },
+      "size_range": {
+        "Smallest": "1/16 inch",
+        "Largest": "3/8 inch",
+        "Increments": "64ths"
+      },
+      "materials_drilled": [
+        "Wood",
+        "Metal",
+        "Plastic",
+        "PVC"
+      ],
+      "applications": [
+        "General drilling",
+        "Precision work",
+        "Repeated use applications",
+        "Professional use"
+      ]
+    },
+    {
+      "id": "HCFC2012",
+      "name": "Bosch BlueGranite Turbo Carbide Hammer Drill Bit Set",
+      "brand": "Bosch",
+      "model": "HCFC2012",
+      "category": "Drill Bits",
+      "subcategory": "Masonry Bits",
+      "bit_type": "masonry_drill_bits",
+      "price": 34.99,
+      "description": "12-piece carbide-tipped masonry drill bit set. Turbo design for faster drilling in concrete, brick, and stone.",
+      "specifications": {
+        "Material": "Carbide Tip",
+        "Shank Type": "SDS-Plus and Round",
+        "Design": "Turbo flute",
+        "Sizes": "3/16 to 1/2 inch",
+        "Total Pieces": "12"
+      },
+      "size_range": {
+        "Smallest": "3/16 inch",
+        "Largest": "1/2 inch",
+        "Common Sizes": [
+          "1/4",
+          "5/16",
+          "3/8",
+          "7/16",
+          "1/2"
+        ]
+      },
+      "materials_drilled": [
+        "Concrete",
+        "Brick",
+        "Stone",
+        "Masonry Block",
+        "Mortar"
+      ],
+      "applications": [
+        "Anchor installation",
+        "Concrete drilling",
+        "Masonry work",
+        "Construction"
+      ]
+    },
+    {
+      "id": "DW5207",
+      "name": "DEWALT Percussion Masonry Drill Bit Set",
+      "brand": "DEWALT",
+      "model": "DW5207",
+      "category": "Drill Bits",
+      "subcategory": "Percussion Masonry Bits",
+      "bit_type": "percussion_masonry_bits",
+      "price": 29.99,
+      "description": "7-piece percussion masonry bit set with carbide tips. Designed for rotary hammer and hammer drill use.",
+      "specifications": {
+        "Material": "Carbide Tip with Steel Shank",
+        "Shank Type": "SDS-Plus",
+        "Flute Design": "4-flute",
+        "Sizes": "3/16 to 1/2 inch",
+        "Total Pieces": "7"
+      },
+      "size_range": {
+        "Smallest": "3/16 inch",
+        "Largest": "1/2 inch",
+        "Lengths": "4 to 6 inches"
+      },
+      "materials_drilled": [
+        "Reinforced Concrete",
+        "Hard Concrete",
+        "Natural Stone",
+        "Artificial Stone"
+      ],
+      "applications": [
+        "Heavy duty masonry",
+        "Concrete anchoring",
+        "Structural work",
+        "Demolition prep"
+      ]
+    },
+    {
+      "id": "DW1587",
+      "name": "DEWALT 6-Piece Spade Bit Set",
+      "brand": "DEWALT",
+      "model": "DW1587",
+      "category": "Drill Bits",
+      "subcategory": "Spade Bits",
+      "bit_type": "spade_bits",
+      "price": 12.99,
+      "description": "6-piece spade bit set for fast drilling in wood. Full cone threaded tip pulls bit through material.",
+      "specifications": {
+        "Material": "Carbon Steel",
+        "Tip Design": "Full cone threaded",
+        "Shank": "1/4 inch hex",
+        "Sizes": "3/4, 7/8, 1, 1-1/8, 1-1/4, 1-1/2 inch",
+        "Total Pieces": "6"
+      },
+      "size_range": {
+        "Smallest": "3/4 inch",
+        "Largest": "1-1/2 inch",
+        "Length": "6 inches"
+      },
+      "materials_drilled": [
+        "Softwood",
+        "Hardwood",
+        "Plywood",
+        "Particle Board"
+      ],
+      "applications": [
+        "Rough framing",
+        "Electrical work",
+        "Plumbing",
+        "Large hole drilling"
+      ]
+    },
+    {
+      "id": "IRW88886",
+      "name": "Irwin Speedbor MAX Spade Bit Set",
+      "brand": "Irwin",
+      "model": "88886",
+      "category": "Drill Bits",
+      "subcategory": "Speed Bore Bits",
+      "bit_type": "speed_bore_bits",
+      "price": 24.99,
+      "description": "8-piece Speedbor MAX set with grooved hex shank. Blue-Groove point and cutting edge for faster drilling.",
+      "specifications": {
+        "Material": "Carbon Steel",
+        "Shank": "Grooved Hex",
+        "Point Design": "Blue-Groove",
+        "Sizes": "1/2 to 1-1/2 inch",
+        "Total Pieces": "8"
+      },
+      "size_range": {
+        "Smallest": "1/2 inch",
+        "Largest": "1-1/2 inch",
+        "Length": "6 inches"
+      },
+      "materials_drilled": [
+        "Wood",
+        "Composite Materials",
+        "Plastic"
+      ],
+      "applications": [
+        "Fast drilling",
+        "Production work",
+        "Door prep",
+        "Electrical installation"
+      ]
+    },
+    {
+      "id": "FB-008",
+      "name": "Freud Precision Shear Forstner Bit Set",
+      "brand": "Freud",
+      "model": "FB-008",
+      "category": "Drill Bits",
+      "subcategory": "Forstner Bits",
+      "bit_type": "forstner_bits",
+      "price": 79.99,
+      "description": "8-piece precision Forstner bit set for clean, flat-bottom holes. Precision shear cutting edge reduces tear-out.",
+      "specifications": {
+        "Material": "High Carbon Steel",
+        "Cutting Edge": "Precision Shear",
+        "Shank": "1/4 inch round",
+        "Sizes": "1/4 to 1 inch",
+        "Total Pieces": "8"
+      },
+      "size_range": {
+        "Smallest": "1/4 inch",
+        "Largest": "1 inch",
+        "Increments": "1/8 inch"
+      },
+      "materials_drilled": [
+        "Hardwood",
+        "Softwood",
+        "Plywood",
+        "MDF",
+        "Particleboard"
+      ],
+      "applications": [
+        "Fine woodworking",
+        "Cabinet making",
+        "Furniture building",
+        "Precision holes"
+      ]
+    },
+    {
+      "id": "D180005",
+      "name": "DEWALT Bi-Metal Hole Saw Kit",
+      "brand": "DEWALT",
+      "model": "D180005",
+      "category": "Drill Bits",
+      "subcategory": "Hole Saws",
+      "bit_type": "hole_saws",
+      "price": 49.99,
+      "description": "14-piece bi-metal hole saw kit for cutting large diameter holes. Includes mandrels and pilot bits.",
+      "specifications": {
+        "Material": "Bi-Metal Construction",
+        "Tooth Design": "Variable tooth set",
+        "Sizes": "3/4 to 2-1/2 inch",
+        "Mandrels": "2 included",
+        "Total Pieces": "14"
+      },
+      "size_range": {
+        "Smallest": "3/4 inch",
+        "Largest": "2-1/2 inch",
+        "Common Sizes": [
+          "7/8",
+          "1-1/8",
+          "1-3/8",
+          "1-1/2",
+          "2",
+          "2-1/8"
+        ]
+      },
+      "materials_drilled": [
+        "Wood",
+        "Metal",
+        "Plastic",
+        "Drywall",
+        "Fiberglass"
+      ],
+      "applications": [
+        "Electrical boxes",
+        "Plumbing penetrations",
+        "HVAC work",
+        "Door hardware"
+      ]
+    },
+    {
+      "id": "GT2000",
+      "name": "Bosch Glass and Tile Bit Set",
+      "brand": "Bosch",
+      "model": "GT2000",
+      "category": "Drill Bits",
+      "subcategory": "Glass & Tile Bits",
+      "bit_type": "glass_tile_bits",
+      "price": 19.99,
+      "description": "5-piece glass and tile bit set with carbide tip. Designed for drilling ceramic tile, glass, and mirrors.",
+      "specifications": {
+        "Tip Material": "Carbide",
+        "Shank": "Round",
+        "Point Design": "Spear point",
+        "Sizes": "1/8, 3/16, 1/4, 5/16, 3/8 inch",
+        "Total Pieces": "5"
+      },
+      "size_range": {
+        "Smallest": "1/8 inch",
+        "Largest": "3/8 inch",
+        "Length": "3-1/2 inches"
+      },
+      "materials_drilled": [
+        "Ceramic Tile",
+        "Porcelain",
+        "Glass",
+        "Mirrors",
+        "Marble"
+      ],
+      "applications": [
+        "Tile installation",
+        "Bathroom renovation",
+        "Kitchen backsplash",
+        "Mirror mounting"
+      ]
+    },
+    {
+      "id": "DW2535",
+      "name": "DEWALT Countersink Bit Set",
+      "brand": "DEWALT",
+      "model": "DW2535",
+      "category": "Drill Bits",
+      "subcategory": "Countersink Bits",
+      "bit_type": "countersink_bits",
+      "price": 16.99,
+      "description": "5-piece countersink bit set for flush screw installation. Tapered design creates perfect countersink holes.",
+      "specifications": {
+        "Material": "High Speed Steel",
+        "Angle": "82 degrees",
+        "Shank": "1/4 inch hex",
+        "Sizes": "#6, #8, #10, #12, #14 screws",
+        "Total Pieces": "5"
+      },
+      "size_range": {
+        "Screw Sizes": "#6 to #14",
+        "Pilot Hole": "Pre-drilled required",
+        "Countersink Angle": "82 degrees"
+      },
+      "materials_drilled": [
+        "Wood",
+        "Composite",
+        "MDF",
+        "Plywood"
+      ],
+      "applications": [
+        "Cabinet installation",
+        "Furniture assembly",
+        "Trim work",
+        "Finish carpentry"
+      ]
+    },
+    {
+      "id": "UNI29",
+      "name": "Irwin Unibit Step Drill Bit Set",
+      "brand": "Irwin",
+      "model": "UNI29",
+      "category": "Drill Bits",
+      "subcategory": "Step Drill Bits",
+      "bit_type": "step_drill_bits",
+      "price": 89.99,
+      "description": "3-piece step drill bit set for drilling multiple hole sizes. Self-starting tip requires no center punch.",
+      "specifications": {
+        "Material": "High Speed Steel",
+        "Coating": "Titanium Nitride",
+        "Shank": "1/4 inch hex",
+        "Flute Design": "Dual flute",
+        "Total Pieces": "3"
+      },
+      "size_range": {
+        "Bit 1": "1/8 to 1/2 inch (9 sizes)",
+        "Bit 2": "1/4 to 3/4 inch (6 sizes)",
+        "Bit 3": "1/2 to 1 inch (5 sizes)"
+      },
+      "materials_drilled": [
+        "Sheet Metal",
+        "Thin Steel",
+        "Aluminum",
+        "Plastic",
+        "Fiberglass"
+      ],
+      "applications": [
+        "Electrical panels",
+        "HVAC ductwork",
+        "Auto body work",
+        "Sheet metal fabrication"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HandyCan</string>
+    <string name="chat_hint">Ask me about your hardware project...</string>
+    <string name="send">Send</string>
+    <string name="thinking">Thinking...</string>
+</resources>

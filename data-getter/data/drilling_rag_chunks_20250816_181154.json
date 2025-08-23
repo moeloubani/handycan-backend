@@ -1,0 +1,982 @@
+[
+  {
+    "id": "DCD771C2_main",
+    "type": "drill_overview",
+    "content": "Drill: DEWALT 20V MAX Cordless Drill/Driver Kit by DEWALT (Model: DCD771C2). Type: Cordless Drill Driver. Compact and lightweight cordless drill with high performance motor delivering 300 unit watts out. Features 1/2-inch single sleeve ratcheting chuck for versatile drilling and fastening applications.",
+    "metadata": {
+      "product_id": "DCD771C2",
+      "product_type": "drill",
+      "drill_type": "cordless_drill_driver",
+      "brand": "DEWALT",
+      "price": 149.99
+    }
+  },
+  {
+    "id": "DCD771C2_specs",
+    "type": "drill_specifications",
+    "content": "Specifications: Chuck Size: 1/2 inch keyless; Battery: 20V MAX Li-Ion; Motor: High performance - 300 UWO; Speed: 2-speed (0-450/0-1,500 RPM); Torque Settings: 15 position clutch; Max Torque: 300 in-lbs; Weight: 3.6 lbs; Length: 7.5 inches",
+    "metadata": {
+      "product_id": "DCD771C2",
+      "product_type": "drill",
+      "brand": "DEWALT",
+      "model": "DCD771C2"
+    }
+  },
+  {
+    "id": "DCD771C2_capacity",
+    "type": "drilling_capacity",
+    "content": "Drilling Capacity: Wood: 1-1/2 inches; Steel: 1/2 inch; Masonry: Not recommended",
+    "metadata": {
+      "product_id": "DCD771C2",
+      "product_type": "drill",
+      "brand": "DEWALT"
+    }
+  },
+  {
+    "id": "DCD771C2_applications",
+    "type": "drill_applications",
+    "content": "Applications: General drilling; Screw driving; Light fastening; Home projects",
+    "metadata": {
+      "product_id": "DCD771C2",
+      "product_type": "drill",
+      "drill_type": "cordless_drill_driver"
+    }
+  },
+  {
+    "id": "2853-22CT_main",
+    "type": "drill_overview",
+    "content": "Drill: Milwaukee M18 FUEL Impact Driver Kit by Milwaukee (Model: 2853-22CT). Type: Impact Driver. Most compact impact driver generating 1,800 in-lbs of fastening torque. POWERSTATE Brushless Motor delivers superior power and runtime.",
+    "metadata": {
+      "product_id": "2853-22CT",
+      "product_type": "drill",
+      "drill_type": "impact_driver",
+      "brand": "Milwaukee",
+      "price": 299.0
+    }
+  },
+  {
+    "id": "2853-22CT_specs",
+    "type": "drill_specifications",
+    "content": "Specifications: Chuck Type: 1/4 inch hex; Battery: M18 REDLITHIUM; Motor: POWERSTATE Brushless; Speed: 0-3,200 RPM; Impacts: 0-3,600 IPM; Max Torque: 1,800 in-lbs; Weight: 2.8 lbs; Length: 5.1 inches",
+    "metadata": {
+      "product_id": "2853-22CT",
+      "product_type": "drill",
+      "brand": "Milwaukee",
+      "model": "2853-22CT"
+    }
+  },
+  {
+    "id": "2853-22CT_capacity",
+    "type": "drilling_capacity",
+    "content": "Drilling Capacity: Wood: Use with hex shank bits; Steel: Use with hex shank bits; Masonry: Not recommended",
+    "metadata": {
+      "product_id": "2853-22CT",
+      "product_type": "drill",
+      "brand": "Milwaukee"
+    }
+  },
+  {
+    "id": "2853-22CT_applications",
+    "type": "drill_applications",
+    "content": "Applications: Heavy duty fastening; Lag bolts; Long screws; Deck building",
+    "metadata": {
+      "product_id": "2853-22CT",
+      "product_type": "drill",
+      "drill_type": "impact_driver"
+    }
+  },
+  {
+    "id": "XPH12Z_main",
+    "type": "drill_overview",
+    "content": "Drill: Makita 18V LXT Brushless Hammer Driver-Drill by Makita (Model: XPH12Z). Type: Hammer Drill. Brushless hammer drill with BL motor for extended runtime. Features hammer mode for masonry drilling and drill mode for wood/metal.",
+    "metadata": {
+      "product_id": "XPH12Z",
+      "product_type": "drill",
+      "drill_type": "hammer_drill",
+      "brand": "Makita",
+      "price": 179.0
+    }
+  },
+  {
+    "id": "XPH12Z_specs",
+    "type": "drill_specifications",
+    "content": "Specifications: Chuck Size: 1/2 inch keyless; Battery: 18V LXT Li-Ion; Motor: BL Brushless; Speed: 2-speed (0-500/0-1,900 RPM); Impacts: 0-7,500/0-28,500 BPM; Max Torque: 530 in-lbs; Weight: 4.2 lbs; Length: 8-1/8 inches",
+    "metadata": {
+      "product_id": "XPH12Z",
+      "product_type": "drill",
+      "brand": "Makita",
+      "model": "XPH12Z"
+    }
+  },
+  {
+    "id": "XPH12Z_capacity",
+    "type": "drilling_capacity",
+    "content": "Drilling Capacity: Wood: 2-1/8 inches; Steel: 1/2 inch; Masonry: 5/8 inch",
+    "metadata": {
+      "product_id": "XPH12Z",
+      "product_type": "drill",
+      "brand": "Makita"
+    }
+  },
+  {
+    "id": "XPH12Z_applications",
+    "type": "drill_applications",
+    "content": "Applications: Masonry drilling; Concrete anchors; Tile drilling; Heavy duty applications",
+    "metadata": {
+      "product_id": "XPH12Z",
+      "product_type": "drill",
+      "drill_type": "hammer_drill"
+    }
+  },
+  {
+    "id": "DWD112_main",
+    "type": "drill_overview",
+    "content": "Drill: DEWALT 8 Amp 3/8-inch VSR Pistol Grip Corded Drill by DEWALT (Model: DWD112). Type: Corded Drill. Variable speed reversible corded drill with 8.0 Amp motor. Features keyless chuck and ergonomic design for extended use.",
+    "metadata": {
+      "product_id": "DWD112",
+      "product_type": "drill",
+      "drill_type": "corded_drill",
+      "brand": "DEWALT",
+      "price": 89.0
+    }
+  },
+  {
+    "id": "DWD112_specs",
+    "type": "drill_specifications",
+    "content": "Specifications: Chuck Size: 3/8 inch keyless; Motor: 8.0 Amp; Speed: 0-2,500 RPM; Power: Corded electric; Weight: 4.1 lbs; Length: 10.9 inches; Cord Length: 8 feet",
+    "metadata": {
+      "product_id": "DWD112",
+      "product_type": "drill",
+      "brand": "DEWALT",
+      "model": "DWD112"
+    }
+  },
+  {
+    "id": "DWD112_capacity",
+    "type": "drilling_capacity",
+    "content": "Drilling Capacity: Wood: 1-1/4 inches; Steel: 3/8 inch; Masonry: Not recommended",
+    "metadata": {
+      "product_id": "DWD112",
+      "product_type": "drill",
+      "brand": "DEWALT"
+    }
+  },
+  {
+    "id": "DWD112_applications",
+    "type": "drill_applications",
+    "content": "Applications: Continuous drilling; Production work; Mixing; Heavy duty drilling",
+    "metadata": {
+      "product_id": "DWD112",
+      "product_type": "drill",
+      "drill_type": "corded_drill"
+    }
+  },
+  {
+    "id": "HD18-2_main",
+    "type": "drill_overview",
+    "content": "Drill: Bosch 1/2-inch 2-Speed Hammer Drill by Bosch (Model: HD18-2). Type: Corded Hammer Drill. Powerful 7.0 Amp hammer drill with 2-speed gearbox. Features Vario-Lock positioning for optimal drilling angle.",
+    "metadata": {
+      "product_id": "HD18-2",
+      "product_type": "drill",
+      "drill_type": "corded_hammer_drill",
+      "brand": "Bosch",
+      "price": 159.0
+    }
+  },
+  {
+    "id": "HD18-2_specs",
+    "type": "drill_specifications",
+    "content": "Specifications: Chuck Size: 1/2 inch keyed; Motor: 7.0 Amp; Speed: 2-speed (0-900/0-2,800 RPM); Impacts: 0-14,400/0-44,800 BPM; Weight: 4.6 lbs; Length: 12.2 inches",
+    "metadata": {
+      "product_id": "HD18-2",
+      "product_type": "drill",
+      "brand": "Bosch",
+      "model": "HD18-2"
+    }
+  },
+  {
+    "id": "HD18-2_capacity",
+    "type": "drilling_capacity",
+    "content": "Drilling Capacity: Wood: 1-1/2 inches; Steel: 1/2 inch; Masonry: 5/8 inch",
+    "metadata": {
+      "product_id": "HD18-2",
+      "product_type": "drill",
+      "brand": "Bosch"
+    }
+  },
+  {
+    "id": "HD18-2_applications",
+    "type": "drill_applications",
+    "content": "Applications: Masonry work; Concrete drilling; Anchor installation; Construction",
+    "metadata": {
+      "product_id": "HD18-2",
+      "product_type": "drill",
+      "drill_type": "corded_hammer_drill"
+    }
+  },
+  {
+    "id": "1680-21_main",
+    "type": "drill_overview",
+    "content": "Drill: Milwaukee Right Angle Drill Kit by Milwaukee (Model: 1680-21). Type: Right Angle Drill. Compact right angle drill for tight spaces. Features 7.0 Amp motor and QUIK-LOK cord for easy replacement.",
+    "metadata": {
+      "product_id": "1680-21",
+      "product_type": "drill",
+      "drill_type": "right_angle_drill",
+      "brand": "Milwaukee",
+      "price": 189.0
+    }
+  },
+  {
+    "id": "1680-21_specs",
+    "type": "drill_specifications",
+    "content": "Specifications: Chuck Size: 1/2 inch keyed; Motor: 7.0 Amp; Speed: 0-1,200 RPM; Head Width: 2-3/4 inches; Weight: 5.5 lbs; Length: 11.5 inches",
+    "metadata": {
+      "product_id": "1680-21",
+      "product_type": "drill",
+      "brand": "Milwaukee",
+      "model": "1680-21"
+    }
+  },
+  {
+    "id": "1680-21_capacity",
+    "type": "drilling_capacity",
+    "content": "Drilling Capacity: Wood: 2 inches; Steel: 1/2 inch; Masonry: Not recommended",
+    "metadata": {
+      "product_id": "1680-21",
+      "product_type": "drill",
+      "brand": "Milwaukee"
+    }
+  },
+  {
+    "id": "1680-21_applications",
+    "type": "drill_applications",
+    "content": "Applications: Tight spaces; Between studs; Plumbing; Electrical work",
+    "metadata": {
+      "product_id": "1680-21",
+      "product_type": "drill",
+      "drill_type": "right_angle_drill"
+    }
+  },
+  {
+    "id": "DCD460T1_main",
+    "type": "drill_overview",
+    "content": "Drill: DEWALT FLEXVOLT 60V MAX Stud and Joist Drill by DEWALT (Model: DCD460T1). Type: Heavy Duty Drill. Professional grade drill for drilling through studs and joists. E-Clutch System provides user control and extends gear life.",
+    "metadata": {
+      "product_id": "DCD460T1",
+      "product_type": "drill",
+      "drill_type": "heavy_duty_drill",
+      "brand": "DEWALT",
+      "price": 459.0
+    }
+  },
+  {
+    "id": "DCD460T1_specs",
+    "type": "drill_specifications",
+    "content": "Specifications: Chuck Size: 1/2 inch keyed; Battery: 60V MAX FLEXVOLT; Motor: Brushless; Speed: 0-300/0-1,250 RPM; Max Torque: 1,330 in-lbs; Weight: 8.8 lbs; Length: 14.4 inches",
+    "metadata": {
+      "product_id": "DCD460T1",
+      "product_type": "drill",
+      "brand": "DEWALT",
+      "model": "DCD460T1"
+    }
+  },
+  {
+    "id": "DCD460T1_capacity",
+    "type": "drilling_capacity",
+    "content": "Drilling Capacity: Wood: 6 inches; Steel: 1-1/4 inches; Masonry: 1 inch",
+    "metadata": {
+      "product_id": "DCD460T1",
+      "product_type": "drill",
+      "brand": "DEWALT"
+    }
+  },
+  {
+    "id": "DCD460T1_applications",
+    "type": "drill_applications",
+    "content": "Applications: Stud drilling; Joist drilling; Plumbing; HVAC installation",
+    "metadata": {
+      "product_id": "DCD460T1",
+      "product_type": "drill",
+      "drill_type": "heavy_duty_drill"
+    }
+  },
+  {
+    "id": "M12-BD_main",
+    "type": "drill_overview",
+    "content": "Drill: Milwaukee M12 Cordless Band Saw by Milwaukee (Model: 2429-21XC). Type: Band Saw Drill. Compact cordless band saw for cutting metal, PVC, and conduit. Features tool-free blade changes and LED light.",
+    "metadata": {
+      "product_id": "M12-BD",
+      "product_type": "drill",
+      "drill_type": "band_saw_drill",
+      "brand": "Milwaukee",
+      "price": 329.0
+    }
+  },
+  {
+    "id": "M12-BD_specs",
+    "type": "drill_specifications",
+    "content": "Specifications: Cutting Capacity: 1-5/8 inches round; Battery: M12 REDLITHIUM; Motor: High performance; Blade Length: 27 inches; Weight: 6.75 lbs; Cuts per Charge: 150+ in 3/4 inch EMT",
+    "metadata": {
+      "product_id": "M12-BD",
+      "product_type": "drill",
+      "brand": "Milwaukee",
+      "model": "2429-21XC"
+    }
+  },
+  {
+    "id": "M12-BD_capacity",
+    "type": "drilling_capacity",
+    "content": "Drilling Capacity: Metal Pipe: 1-5/8 inches; EMT Conduit: 1-1/4 inches; PVC: 2 inches",
+    "metadata": {
+      "product_id": "M12-BD",
+      "product_type": "drill",
+      "brand": "Milwaukee"
+    }
+  },
+  {
+    "id": "M12-BD_applications",
+    "type": "drill_applications",
+    "content": "Applications: Pipe cutting; Conduit cutting; Metal fabrication; Plumbing",
+    "metadata": {
+      "product_id": "M12-BD",
+      "product_type": "drill",
+      "drill_type": "band_saw_drill"
+    }
+  },
+  {
+    "id": "DW1177_main",
+    "type": "drill_bit_overview",
+    "content": "Drill Bit: DEWALT Black Oxide Drill Bit Set by DEWALT (Model: DW1177). Type: Twist Drill Bits. 20-piece black oxide drill bit set for drilling metal, wood, and plastic. 135-degree split point tip prevents walking.",
+    "metadata": {
+      "product_id": "DW1177",
+      "product_type": "drill_bit",
+      "bit_type": "twist_drill_bits",
+      "brand": "DEWALT",
+      "price": 24.99
+    }
+  },
+  {
+    "id": "DW1177_specs",
+    "type": "drill_bit_specifications",
+    "content": "Specifications: Material: High Speed Steel (HSS); Coating: Black Oxide; Point Angle: 135 degrees; Shank Type: Round; Sizes: 1/16 to 1/2 inch by 64ths; Total Pieces: 20",
+    "metadata": {
+      "product_id": "DW1177",
+      "product_type": "drill_bit",
+      "brand": "DEWALT",
+      "model": "DW1177"
+    }
+  },
+  {
+    "id": "DW1177_sizes",
+    "type": "drill_bit_sizes",
+    "content": "Size Range: Smallest: 1/16 inch; Largest: 1/2 inch; Increments: 64ths",
+    "metadata": {
+      "product_id": "DW1177",
+      "product_type": "drill_bit",
+      "bit_type": "twist_drill_bits"
+    }
+  },
+  {
+    "id": "DW1177_materials",
+    "type": "drill_bit_materials",
+    "content": "Materials: Steel; Wood; Plastic; Aluminum",
+    "metadata": {
+      "product_id": "DW1177",
+      "product_type": "drill_bit",
+      "bit_type": "twist_drill_bits"
+    }
+  },
+  {
+    "id": "DW1177_applications",
+    "type": "drill_bit_applications",
+    "content": "Applications: General purpose drilling; Metal fabrication; Woodworking; Maintenance",
+    "metadata": {
+      "product_id": "DW1177",
+      "product_type": "drill_bit",
+      "bit_type": "twist_drill_bits"
+    }
+  },
+  {
+    "id": "CO-29_main",
+    "type": "drill_bit_overview",
+    "content": "Drill Bit: Irwin Cobalt M-42 Drill Bit Set by Irwin (Model: CO-29). Type: Cobalt Drill Bits. 29-piece cobalt drill bit set for drilling hardened steel and stainless steel. M-42 cobalt steel construction.",
+    "metadata": {
+      "product_id": "CO-29",
+      "product_type": "drill_bit",
+      "bit_type": "cobalt_drill_bits",
+      "brand": "Irwin",
+      "price": 89.99
+    }
+  },
+  {
+    "id": "CO-29_specs",
+    "type": "drill_bit_specifications",
+    "content": "Specifications: Material: M-42 Cobalt Steel; Coating: None (natural cobalt); Point Angle: 135 degrees; Shank Type: Round; Sizes: 1/16 to 1/2 inch; Total Pieces: 29",
+    "metadata": {
+      "product_id": "CO-29",
+      "product_type": "drill_bit",
+      "brand": "Irwin",
+      "model": "CO-29"
+    }
+  },
+  {
+    "id": "CO-29_sizes",
+    "type": "drill_bit_sizes",
+    "content": "Size Range: Smallest: 1/16 inch; Largest: 1/2 inch; Increments: 64ths",
+    "metadata": {
+      "product_id": "CO-29",
+      "product_type": "drill_bit",
+      "bit_type": "cobalt_drill_bits"
+    }
+  },
+  {
+    "id": "CO-29_materials",
+    "type": "drill_bit_materials",
+    "content": "Materials: Hardened Steel; Stainless Steel; Cast Iron; High Temperature Alloys",
+    "metadata": {
+      "product_id": "CO-29",
+      "product_type": "drill_bit",
+      "bit_type": "cobalt_drill_bits"
+    }
+  },
+  {
+    "id": "CO-29_applications",
+    "type": "drill_bit_applications",
+    "content": "Applications: Heavy duty drilling; Industrial applications; Stainless steel work; Tool making",
+    "metadata": {
+      "product_id": "CO-29",
+      "product_type": "drill_bit",
+      "bit_type": "cobalt_drill_bits"
+    }
+  },
+  {
+    "id": "DW1361_main",
+    "type": "drill_bit_overview",
+    "content": "Drill Bit: DEWALT Titanium Pilot Point Drill Bit Set by DEWALT (Model: DW1361). Type: Titanium Drill Bits. 21-piece titanium pilot point drill bit set. Titanium coating reduces heat buildup and extends bit life.",
+    "metadata": {
+      "product_id": "DW1361",
+      "product_type": "drill_bit",
+      "bit_type": "titanium_drill_bits",
+      "brand": "DEWALT",
+      "price": 19.99
+    }
+  },
+  {
+    "id": "DW1361_specs",
+    "type": "drill_bit_specifications",
+    "content": "Specifications: Material: High Speed Steel; Coating: Titanium Nitride (TiN); Point Type: Pilot Point; Shank Type: Round; Sizes: 1/16 to 3/8 inch; Total Pieces: 21",
+    "metadata": {
+      "product_id": "DW1361",
+      "product_type": "drill_bit",
+      "brand": "DEWALT",
+      "model": "DW1361"
+    }
+  },
+  {
+    "id": "DW1361_sizes",
+    "type": "drill_bit_sizes",
+    "content": "Size Range: Smallest: 1/16 inch; Largest: 3/8 inch; Increments: 64ths",
+    "metadata": {
+      "product_id": "DW1361",
+      "product_type": "drill_bit",
+      "bit_type": "titanium_drill_bits"
+    }
+  },
+  {
+    "id": "DW1361_materials",
+    "type": "drill_bit_materials",
+    "content": "Materials: Wood; Metal; Plastic; PVC",
+    "metadata": {
+      "product_id": "DW1361",
+      "product_type": "drill_bit",
+      "bit_type": "titanium_drill_bits"
+    }
+  },
+  {
+    "id": "DW1361_applications",
+    "type": "drill_bit_applications",
+    "content": "Applications: General drilling; Precision work; Repeated use applications; Professional use",
+    "metadata": {
+      "product_id": "DW1361",
+      "product_type": "drill_bit",
+      "bit_type": "titanium_drill_bits"
+    }
+  },
+  {
+    "id": "HCFC2012_main",
+    "type": "drill_bit_overview",
+    "content": "Drill Bit: Bosch BlueGranite Turbo Carbide Hammer Drill Bit Set by Bosch (Model: HCFC2012). Type: Masonry Drill Bits. 12-piece carbide-tipped masonry drill bit set. Turbo design for faster drilling in concrete, brick, and stone.",
+    "metadata": {
+      "product_id": "HCFC2012",
+      "product_type": "drill_bit",
+      "bit_type": "masonry_drill_bits",
+      "brand": "Bosch",
+      "price": 34.99
+    }
+  },
+  {
+    "id": "HCFC2012_specs",
+    "type": "drill_bit_specifications",
+    "content": "Specifications: Material: Carbide Tip; Shank Type: SDS-Plus and Round; Design: Turbo flute; Sizes: 3/16 to 1/2 inch; Total Pieces: 12",
+    "metadata": {
+      "product_id": "HCFC2012",
+      "product_type": "drill_bit",
+      "brand": "Bosch",
+      "model": "HCFC2012"
+    }
+  },
+  {
+    "id": "HCFC2012_sizes",
+    "type": "drill_bit_sizes",
+    "content": "Size Range: Smallest: 3/16 inch; Largest: 1/2 inch; Common Sizes: ['1/4', '5/16', '3/8', '7/16', '1/2']",
+    "metadata": {
+      "product_id": "HCFC2012",
+      "product_type": "drill_bit",
+      "bit_type": "masonry_drill_bits"
+    }
+  },
+  {
+    "id": "HCFC2012_materials",
+    "type": "drill_bit_materials",
+    "content": "Materials: Concrete; Brick; Stone; Masonry Block; Mortar",
+    "metadata": {
+      "product_id": "HCFC2012",
+      "product_type": "drill_bit",
+      "bit_type": "masonry_drill_bits"
+    }
+  },
+  {
+    "id": "HCFC2012_applications",
+    "type": "drill_bit_applications",
+    "content": "Applications: Anchor installation; Concrete drilling; Masonry work; Construction",
+    "metadata": {
+      "product_id": "HCFC2012",
+      "product_type": "drill_bit",
+      "bit_type": "masonry_drill_bits"
+    }
+  },
+  {
+    "id": "DW5207_main",
+    "type": "drill_bit_overview",
+    "content": "Drill Bit: DEWALT Percussion Masonry Drill Bit Set by DEWALT (Model: DW5207). Type: Percussion Masonry Bits. 7-piece percussion masonry bit set with carbide tips. Designed for rotary hammer and hammer drill use.",
+    "metadata": {
+      "product_id": "DW5207",
+      "product_type": "drill_bit",
+      "bit_type": "percussion_masonry_bits",
+      "brand": "DEWALT",
+      "price": 29.99
+    }
+  },
+  {
+    "id": "DW5207_specs",
+    "type": "drill_bit_specifications",
+    "content": "Specifications: Material: Carbide Tip with Steel Shank; Shank Type: SDS-Plus; Flute Design: 4-flute; Sizes: 3/16 to 1/2 inch; Total Pieces: 7",
+    "metadata": {
+      "product_id": "DW5207",
+      "product_type": "drill_bit",
+      "brand": "DEWALT",
+      "model": "DW5207"
+    }
+  },
+  {
+    "id": "DW5207_sizes",
+    "type": "drill_bit_sizes",
+    "content": "Size Range: Smallest: 3/16 inch; Largest: 1/2 inch; Lengths: 4 to 6 inches",
+    "metadata": {
+      "product_id": "DW5207",
+      "product_type": "drill_bit",
+      "bit_type": "percussion_masonry_bits"
+    }
+  },
+  {
+    "id": "DW5207_materials",
+    "type": "drill_bit_materials",
+    "content": "Materials: Reinforced Concrete; Hard Concrete; Natural Stone; Artificial Stone",
+    "metadata": {
+      "product_id": "DW5207",
+      "product_type": "drill_bit",
+      "bit_type": "percussion_masonry_bits"
+    }
+  },
+  {
+    "id": "DW5207_applications",
+    "type": "drill_bit_applications",
+    "content": "Applications: Heavy duty masonry; Concrete anchoring; Structural work; Demolition prep",
+    "metadata": {
+      "product_id": "DW5207",
+      "product_type": "drill_bit",
+      "bit_type": "percussion_masonry_bits"
+    }
+  },
+  {
+    "id": "DW1587_main",
+    "type": "drill_bit_overview",
+    "content": "Drill Bit: DEWALT 6-Piece Spade Bit Set by DEWALT (Model: DW1587). Type: Spade Bits. 6-piece spade bit set for fast drilling in wood. Full cone threaded tip pulls bit through material.",
+    "metadata": {
+      "product_id": "DW1587",
+      "product_type": "drill_bit",
+      "bit_type": "spade_bits",
+      "brand": "DEWALT",
+      "price": 12.99
+    }
+  },
+  {
+    "id": "DW1587_specs",
+    "type": "drill_bit_specifications",
+    "content": "Specifications: Material: Carbon Steel; Tip Design: Full cone threaded; Shank: 1/4 inch hex; Sizes: 3/4, 7/8, 1, 1-1/8, 1-1/4, 1-1/2 inch; Total Pieces: 6",
+    "metadata": {
+      "product_id": "DW1587",
+      "product_type": "drill_bit",
+      "brand": "DEWALT",
+      "model": "DW1587"
+    }
+  },
+  {
+    "id": "DW1587_sizes",
+    "type": "drill_bit_sizes",
+    "content": "Size Range: Smallest: 3/4 inch; Largest: 1-1/2 inch; Length: 6 inches",
+    "metadata": {
+      "product_id": "DW1587",
+      "product_type": "drill_bit",
+      "bit_type": "spade_bits"
+    }
+  },
+  {
+    "id": "DW1587_materials",
+    "type": "drill_bit_materials",
+    "content": "Materials: Softwood; Hardwood; Plywood; Particle Board",
+    "metadata": {
+      "product_id": "DW1587",
+      "product_type": "drill_bit",
+      "bit_type": "spade_bits"
+    }
+  },
+  {
+    "id": "DW1587_applications",
+    "type": "drill_bit_applications",
+    "content": "Applications: Rough framing; Electrical work; Plumbing; Large hole drilling",
+    "metadata": {
+      "product_id": "DW1587",
+      "product_type": "drill_bit",
+      "bit_type": "spade_bits"
+    }
+  },
+  {
+    "id": "IRW88886_main",
+    "type": "drill_bit_overview",
+    "content": "Drill Bit: Irwin Speedbor MAX Spade Bit Set by Irwin (Model: 88886). Type: Speed Bore Bits. 8-piece Speedbor MAX set with grooved hex shank. Blue-Groove point and cutting edge for faster drilling.",
+    "metadata": {
+      "product_id": "IRW88886",
+      "product_type": "drill_bit",
+      "bit_type": "speed_bore_bits",
+      "brand": "Irwin",
+      "price": 24.99
+    }
+  },
+  {
+    "id": "IRW88886_specs",
+    "type": "drill_bit_specifications",
+    "content": "Specifications: Material: Carbon Steel; Shank: Grooved Hex; Point Design: Blue-Groove; Sizes: 1/2 to 1-1/2 inch; Total Pieces: 8",
+    "metadata": {
+      "product_id": "IRW88886",
+      "product_type": "drill_bit",
+      "brand": "Irwin",
+      "model": "88886"
+    }
+  },
+  {
+    "id": "IRW88886_sizes",
+    "type": "drill_bit_sizes",
+    "content": "Size Range: Smallest: 1/2 inch; Largest: 1-1/2 inch; Length: 6 inches",
+    "metadata": {
+      "product_id": "IRW88886",
+      "product_type": "drill_bit",
+      "bit_type": "speed_bore_bits"
+    }
+  },
+  {
+    "id": "IRW88886_materials",
+    "type": "drill_bit_materials",
+    "content": "Materials: Wood; Composite Materials; Plastic",
+    "metadata": {
+      "product_id": "IRW88886",
+      "product_type": "drill_bit",
+      "bit_type": "speed_bore_bits"
+    }
+  },
+  {
+    "id": "IRW88886_applications",
+    "type": "drill_bit_applications",
+    "content": "Applications: Fast drilling; Production work; Door prep; Electrical installation",
+    "metadata": {
+      "product_id": "IRW88886",
+      "product_type": "drill_bit",
+      "bit_type": "speed_bore_bits"
+    }
+  },
+  {
+    "id": "FB-008_main",
+    "type": "drill_bit_overview",
+    "content": "Drill Bit: Freud Precision Shear Forstner Bit Set by Freud (Model: FB-008). Type: Forstner Bits. 8-piece precision Forstner bit set for clean, flat-bottom holes. Precision shear cutting edge reduces tear-out.",
+    "metadata": {
+      "product_id": "FB-008",
+      "product_type": "drill_bit",
+      "bit_type": "forstner_bits",
+      "brand": "Freud",
+      "price": 79.99
+    }
+  },
+  {
+    "id": "FB-008_specs",
+    "type": "drill_bit_specifications",
+    "content": "Specifications: Material: High Carbon Steel; Cutting Edge: Precision Shear; Shank: 1/4 inch round; Sizes: 1/4 to 1 inch; Total Pieces: 8",
+    "metadata": {
+      "product_id": "FB-008",
+      "product_type": "drill_bit",
+      "brand": "Freud",
+      "model": "FB-008"
+    }
+  },
+  {
+    "id": "FB-008_sizes",
+    "type": "drill_bit_sizes",
+    "content": "Size Range: Smallest: 1/4 inch; Largest: 1 inch; Increments: 1/8 inch",
+    "metadata": {
+      "product_id": "FB-008",
+      "product_type": "drill_bit",
+      "bit_type": "forstner_bits"
+    }
+  },
+  {
+    "id": "FB-008_materials",
+    "type": "drill_bit_materials",
+    "content": "Materials: Hardwood; Softwood; Plywood; MDF; Particleboard",
+    "metadata": {
+      "product_id": "FB-008",
+      "product_type": "drill_bit",
+      "bit_type": "forstner_bits"
+    }
+  },
+  {
+    "id": "FB-008_applications",
+    "type": "drill_bit_applications",
+    "content": "Applications: Fine woodworking; Cabinet making; Furniture building; Precision holes",
+    "metadata": {
+      "product_id": "FB-008",
+      "product_type": "drill_bit",
+      "bit_type": "forstner_bits"
+    }
+  },
+  {
+    "id": "D180005_main",
+    "type": "drill_bit_overview",
+    "content": "Drill Bit: DEWALT Bi-Metal Hole Saw Kit by DEWALT (Model: D180005). Type: Hole Saws. 14-piece bi-metal hole saw kit for cutting large diameter holes. Includes mandrels and pilot bits.",
+    "metadata": {
+      "product_id": "D180005",
+      "product_type": "drill_bit",
+      "bit_type": "hole_saws",
+      "brand": "DEWALT",
+      "price": 49.99
+    }
+  },
+  {
+    "id": "D180005_specs",
+    "type": "drill_bit_specifications",
+    "content": "Specifications: Material: Bi-Metal Construction; Tooth Design: Variable tooth set; Sizes: 3/4 to 2-1/2 inch; Mandrels: 2 included; Total Pieces: 14",
+    "metadata": {
+      "product_id": "D180005",
+      "product_type": "drill_bit",
+      "brand": "DEWALT",
+      "model": "D180005"
+    }
+  },
+  {
+    "id": "D180005_sizes",
+    "type": "drill_bit_sizes",
+    "content": "Size Range: Smallest: 3/4 inch; Largest: 2-1/2 inch; Common Sizes: ['7/8', '1-1/8', '1-3/8', '1-1/2', '2', '2-1/8']",
+    "metadata": {
+      "product_id": "D180005",
+      "product_type": "drill_bit",
+      "bit_type": "hole_saws"
+    }
+  },
+  {
+    "id": "D180005_materials",
+    "type": "drill_bit_materials",
+    "content": "Materials: Wood; Metal; Plastic; Drywall; Fiberglass",
+    "metadata": {
+      "product_id": "D180005",
+      "product_type": "drill_bit",
+      "bit_type": "hole_saws"
+    }
+  },
+  {
+    "id": "D180005_applications",
+    "type": "drill_bit_applications",
+    "content": "Applications: Electrical boxes; Plumbing penetrations; HVAC work; Door hardware",
+    "metadata": {
+      "product_id": "D180005",
+      "product_type": "drill_bit",
+      "bit_type": "hole_saws"
+    }
+  },
+  {
+    "id": "GT2000_main",
+    "type": "drill_bit_overview",
+    "content": "Drill Bit: Bosch Glass and Tile Bit Set by Bosch (Model: GT2000). Type: Glass Tile Bits. 5-piece glass and tile bit set with carbide tip. Designed for drilling ceramic tile, glass, and mirrors.",
+    "metadata": {
+      "product_id": "GT2000",
+      "product_type": "drill_bit",
+      "bit_type": "glass_tile_bits",
+      "brand": "Bosch",
+      "price": 19.99
+    }
+  },
+  {
+    "id": "GT2000_specs",
+    "type": "drill_bit_specifications",
+    "content": "Specifications: Tip Material: Carbide; Shank: Round; Point Design: Spear point; Sizes: 1/8, 3/16, 1/4, 5/16, 3/8 inch; Total Pieces: 5",
+    "metadata": {
+      "product_id": "GT2000",
+      "product_type": "drill_bit",
+      "brand": "Bosch",
+      "model": "GT2000"
+    }
+  },
+  {
+    "id": "GT2000_sizes",
+    "type": "drill_bit_sizes",
+    "content": "Size Range: Smallest: 1/8 inch; Largest: 3/8 inch; Length: 3-1/2 inches",
+    "metadata": {
+      "product_id": "GT2000",
+      "product_type": "drill_bit",
+      "bit_type": "glass_tile_bits"
+    }
+  },
+  {
+    "id": "GT2000_materials",
+    "type": "drill_bit_materials",
+    "content": "Materials: Ceramic Tile; Porcelain; Glass; Mirrors; Marble",
+    "metadata": {
+      "product_id": "GT2000",
+      "product_type": "drill_bit",
+      "bit_type": "glass_tile_bits"
+    }
+  },
+  {
+    "id": "GT2000_applications",
+    "type": "drill_bit_applications",
+    "content": "Applications: Tile installation; Bathroom renovation; Kitchen backsplash; Mirror mounting",
+    "metadata": {
+      "product_id": "GT2000",
+      "product_type": "drill_bit",
+      "bit_type": "glass_tile_bits"
+    }
+  },
+  {
+    "id": "DW2535_main",
+    "type": "drill_bit_overview",
+    "content": "Drill Bit: DEWALT Countersink Bit Set by DEWALT (Model: DW2535). Type: Countersink Bits. 5-piece countersink bit set for flush screw installation. Tapered design creates perfect countersink holes.",
+    "metadata": {
+      "product_id": "DW2535",
+      "product_type": "drill_bit",
+      "bit_type": "countersink_bits",
+      "brand": "DEWALT",
+      "price": 16.99
+    }
+  },
+  {
+    "id": "DW2535_specs",
+    "type": "drill_bit_specifications",
+    "content": "Specifications: Material: High Speed Steel; Angle: 82 degrees; Shank: 1/4 inch hex; Sizes: #6, #8, #10, #12, #14 screws; Total Pieces: 5",
+    "metadata": {
+      "product_id": "DW2535",
+      "product_type": "drill_bit",
+      "brand": "DEWALT",
+      "model": "DW2535"
+    }
+  },
+  {
+    "id": "DW2535_sizes",
+    "type": "drill_bit_sizes",
+    "content": "Size Range: Screw Sizes: #6 to #14; Pilot Hole: Pre-drilled required; Countersink Angle: 82 degrees",
+    "metadata": {
+      "product_id": "DW2535",
+      "product_type": "drill_bit",
+      "bit_type": "countersink_bits"
+    }
+  },
+  {
+    "id": "DW2535_materials",
+    "type": "drill_bit_materials",
+    "content": "Materials: Wood; Composite; MDF; Plywood",
+    "metadata": {
+      "product_id": "DW2535",
+      "product_type": "drill_bit",
+      "bit_type": "countersink_bits"
+    }
+  },
+  {
+    "id": "DW2535_applications",
+    "type": "drill_bit_applications",
+    "content": "Applications: Cabinet installation; Furniture assembly; Trim work; Finish carpentry",
+    "metadata": {
+      "product_id": "DW2535",
+      "product_type": "drill_bit",
+      "bit_type": "countersink_bits"
+    }
+  },
+  {
+    "id": "UNI29_main",
+    "type": "drill_bit_overview",
+    "content": "Drill Bit: Irwin Unibit Step Drill Bit Set by Irwin (Model: UNI29). Type: Step Drill Bits. 3-piece step drill bit set for drilling multiple hole sizes. Self-starting tip requires no center punch.",
+    "metadata": {
+      "product_id": "UNI29",
+      "product_type": "drill_bit",
+      "bit_type": "step_drill_bits",
+      "brand": "Irwin",
+      "price": 89.99
+    }
+  },
+  {
+    "id": "UNI29_specs",
+    "type": "drill_bit_specifications",
+    "content": "Specifications: Material: High Speed Steel; Coating: Titanium Nitride; Shank: 1/4 inch hex; Flute Design: Dual flute; Total Pieces: 3",
+    "metadata": {
+      "product_id": "UNI29",
+      "product_type": "drill_bit",
+      "brand": "Irwin",
+      "model": "UNI29"
+    }
+  },
+  {
+    "id": "UNI29_sizes",
+    "type": "drill_bit_sizes",
+    "content": "Size Range: Bit 1: 1/8 to 1/2 inch (9 sizes); Bit 2: 1/4 to 3/4 inch (6 sizes); Bit 3: 1/2 to 1 inch (5 sizes)",
+    "metadata": {
+      "product_id": "UNI29",
+      "product_type": "drill_bit",
+      "bit_type": "step_drill_bits"
+    }
+  },
+  {
+    "id": "UNI29_materials",
+    "type": "drill_bit_materials",
+    "content": "Materials: Sheet Metal; Thin Steel; Aluminum; Plastic; Fiberglass",
+    "metadata": {
+      "product_id": "UNI29",
+      "product_type": "drill_bit",
+      "bit_type": "step_drill_bits"
+    }
+  },
+  {
+    "id": "UNI29_applications",
+    "type": "drill_bit_applications",
+    "content": "Applications: Electrical panels; HVAC ductwork; Auto body work; Sheet metal fabrication",
+    "metadata": {
+      "product_id": "UNI29",
+      "product_type": "drill_bit",
+      "bit_type": "step_drill_bits"
+    }
+  }
+]
