@@ -13,6 +13,9 @@ const { initializeDatabase } = require('./database/connection');
 const app = express();
 const PORT = process.env.PORT || 3002;
 
+// Trust proxy for Railway (behind reverse proxy)
+app.set('trust proxy', 1);
+
 // Security middleware
 app.use(helmet());
 app.use(cors({
