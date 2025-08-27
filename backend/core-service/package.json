@@ -4,7 +4,8 @@
   "description": "Core Business Service for HandyCan - handles inventory, knowledge base, and admin functions",
   "main": "src/server.js",
   "scripts": {
-    "start": "node src/server.js",
+    "start": "node src/server-simple.js",
+    "start:full": "node src/server.js",
     "dev": "nodemon src/server.js",
     "test": "jest",
     "migrate": "node src/database/migrate.js",
