@@ -66,18 +66,22 @@ app.use((req, res) => {
 
 // Initialize database and start server
 async function startServer() {
-    try {
-        await initializeDatabase();
-        console.log('Database initialized successfully');
-        
-        app.listen(PORT, () => {
-            console.log(`Core Service running on port ${PORT}`);
-            console.log(`Environment: ${process.env.NODE_ENV || 'development'}`);
+    // Start the server immediately without waiting for database
+    app.listen(PORT, () => {
+        console.log(`Core Service running on port ${PORT}`);
+        console.log(`Environment: ${process.env.NODE_ENV || 'development'}`);
+    });
+    
+    // Try to initialize database in background
+    initializeDatabase()
+        .then(() => {
+            console.log('Database initialized successfully');
+        })
+        .catch((error) => {
+            console.error('Warning: Database initialization failed:', error.message);
+            console.log('Service is running but database operations may fail');
+            console.log('Run migrations manually: npm run migrate');
         });
-    } catch (error) {
-        console.error('Failed to start server:', error);
-        process.exit(1);
-    }
 }
 
 startServer();

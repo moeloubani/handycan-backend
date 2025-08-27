@@ -41,7 +41,7 @@ object NetworkModule {
     @Singleton
     fun provideRetrofit(okHttpClient: OkHttpClient): Retrofit {
         return Retrofit.Builder()
-            .baseUrl("http://10.0.2.2:3001/api/") // Android emulator localhost
+            .baseUrl("https://handycan-api-gateway-production.up.railway.app/api/") // Railway production
             .client(okHttpClient)
             .addConverterFactory(GsonConverterFactory.create())
             .build()

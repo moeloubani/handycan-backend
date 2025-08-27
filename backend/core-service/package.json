@@ -4,12 +4,12 @@
   "description": "Core Business Service for HandyCan - handles inventory, knowledge base, and admin functions",
   "main": "src/server.js",
   "scripts": {
-    "start": "node src/start-with-retry.js",
-    "start:original": "node src/server.js",
+    "start": "node src/server.js",
     "dev": "nodemon src/server.js",
     "test": "jest",
     "migrate": "node src/database/migrate.js",
-    "seed": "node src/database/seed.js"
+    "seed": "node src/database/seed.js",
+    "migrate:retry": "node src/start-with-retry.js"
   },
   "dependencies": {
     "express": "^4.18.2",
