@@ -2,4 +2,4 @@
 nixPkgs = ["nodejs_22", "npm-9_x"]
 
 [start]
-cmd = "node src/start-with-retry.js"
+cmd = "npm start"
