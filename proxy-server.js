@@ -14,7 +14,7 @@ app.post('/api/chat/message', async (req, res) => {
     try {
         console.log('Proxying request to Railway API...');
         const response = await axios.post(
-            'https://handycan-api-gateway-production.up.railway.app/api/chat/message',
+            'https://handycan-api-gateway-new-production.up.railway.app/api/chat/message',
             req.body,
             {
                 headers: {

@@ -209,7 +209,16 @@ Be conversational and supportive. Remember that many customers may be DIY beginn
         // Build context with tool results
         let contextualResponse = llmResponse + "\n\n";
         
+        // Track which tools have been processed to avoid duplicates
+        const processedTools = new Set();
+        
         toolResults.forEach(result => {
+            const toolKey = `${result.toolCall}-${JSON.stringify(result.arguments)}`;
+            if (processedTools.has(toolKey)) {
+                return; // Skip duplicate tool calls
+            }
+            processedTools.add(toolKey);
+            
             if (result.result && !result.error) {
                 switch (result.toolCall) {
                     case 'search_products':
@@ -222,17 +231,24 @@ Be conversational and supportive. Remember that many customers may be DIY beginn
                         break;
                     case 'get_project_guide':
                         if (result.result && result.result.guide) {
-                            contextualResponse += `\n**${result.result.guide.title}**\n`;
-                            contextualResponse += `Difficulty: ${result.result.guide.difficulty}\n`;
-                            contextualResponse += `Estimated time: ${result.result.guide.estimatedTime}\n\n`;
+                            const guide = result.result.guide;
+                            contextualResponse += `\n**${guide.title || 'Project Guide'}**\n`;
+                            contextualResponse += `Difficulty: ${guide.difficulty}\n`;
+                            contextualResponse += `Estimated time: ${guide.estimatedTime}\n\n`;
                             contextualResponse += "**First few steps:**\n";
-                            result.result.guide.steps.slice(0, 3).forEach(step => {
-                                contextualResponse += `${step.stepNumber}. ${step.title}\n`;
-                            });
-                        } else if (result.error) {
-                            contextualResponse += "\n*Project guide information is currently unavailable. Please try searching for specific tools or products instead.*\n";
+                            if (guide.steps && guide.steps.length > 0) {
+                                guide.steps.slice(0, 3).forEach(step => {
+                                    contextualResponse += `${step.stepNumber}. ${step.title}\n`;
+                                });
+                            }
                         }
                         break;
+                }
+            } else if (result.error) {
+                // Handle errors gracefully without exposing technical details
+                if (result.toolCall === 'get_project_guide') {
+                    // Silently skip project guide errors since we have fallback content
+                    console.log('Project guide not available, using fallback response');
                 }
             }
         });
