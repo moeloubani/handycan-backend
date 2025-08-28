@@ -221,7 +221,7 @@ Be conversational and supportive. Remember that many customers may be DIY beginn
                         }
                         break;
                     case 'get_project_guide':
-                        if (result.result.guide) {
+                        if (result.result && result.result.guide) {
                             contextualResponse += `\n**${result.result.guide.title}**\n`;
                             contextualResponse += `Difficulty: ${result.result.guide.difficulty}\n`;
                             contextualResponse += `Estimated time: ${result.result.guide.estimatedTime}\n\n`;
@@ -229,6 +229,8 @@ Be conversational and supportive. Remember that many customers may be DIY beginn
                             result.result.guide.steps.slice(0, 3).forEach(step => {
                                 contextualResponse += `${step.stepNumber}. ${step.title}\n`;
                             });
+                        } else if (result.error) {
+                            contextualResponse += "\n*Project guide information is currently unavailable. Please try searching for specific tools or products instead.*\n";
                         }
                         break;
                 }
