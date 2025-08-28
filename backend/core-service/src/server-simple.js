@@ -57,25 +57,50 @@ app.post('/api/products/search', (req, res) => {
     });
 });
 
-app.get('/api/guides/faucet_installation', (req, res) => {
+// Handle all project guide requests
+app.get('/api/guides/:projectType', (req, res) => {
+    const { projectType } = req.params;
+    
+    // Return a generic guide for any project type
     res.json({
         guide: {
-            id: 'guide-001',
-            title: 'Kitchen Faucet Installation',
-            description: 'Complete guide to installing a kitchen faucet',
+            id: `guide-${projectType}`,
+            title: projectType.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase()),
+            description: `Complete guide for ${projectType.replace(/_/g, ' ')}`,
             difficulty: 'BEGINNER',
             estimatedTime: '1-2 hours',
             steps: [
                 {
                     stepNumber: 1,
-                    title: 'Turn off water supply',
-                    description: 'Locate and turn off water valves'
+                    title: 'Gather tools and materials',
+                    description: 'Collect all necessary tools and materials before starting'
                 },
                 {
                     stepNumber: 2,
-                    title: 'Remove old faucet',
-                    description: 'Disconnect and remove existing faucet'
+                    title: 'Prepare the work area',
+                    description: 'Clear and prepare your workspace for safety'
+                },
+                {
+                    stepNumber: 3,
+                    title: 'Follow safety guidelines',
+                    description: 'Wear appropriate safety gear and follow precautions'
+                },
+                {
+                    stepNumber: 4,
+                    title: 'Begin installation/repair',
+                    description: 'Start with the first step of your project'
+                },
+                {
+                    stepNumber: 5,
+                    title: 'Test and verify',
+                    description: 'Test your work to ensure everything functions properly'
                 }
+            ],
+            requiredTools: [
+                'Adjustable wrench',
+                'Screwdriver set',
+                'Safety glasses',
+                'Work gloves'
             ]
         }
     });
